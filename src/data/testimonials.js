@@ -27,7 +27,7 @@ export const testimonials = [
   quote: "Jerry built my business website exactly as I needed and delivered it in under 24 hours. The process was smooth thanks to his speed and clarity.",
   name: "James Esinyen Ikimat",
   role: "Minister, Entrepreneur & CEO, The Business Apostle",
-  image: "/assets/img/testimonials/James-profile.png"
+  image: "/assets/img/testimonials/james-profile.png"
 }
 ];
 
