@@ -13,7 +13,7 @@ export const portfolioItems = [
     category: "Website",
     image: "/assets/img/portfolio/app_102.png",
     description: "A delightful e-commerce website for a custom cake shop featuring an online ordering system, gallery showcase, and customer testimonials. Built with modern web technologies for a sweet user experience.",
-    link: "https://sweetwhisky.netlify.app/"
+    link: "https://sweetwhisk-cake-shop.vercel.app/"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const portfolioItems = [
     category: "Website",
     image: "/assets/img/portfolio/app_103.png",
     description: "Professional construction company website showcasing completed projects, services offered, and client testimonials. Features responsive design and an intuitive project portfolio section.",
-    link: "https://buildrightco.netlify.app/"
+    link: "https://build-right-contractors-constructio.vercel.app/"
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const portfolioItems = [
     category: "Website",
     image: "/assets/img/portfolio/app_105.png",
     description: "Modern barbershop website featuring online booking system, service menu, stylist profiles, and gallery of premium haircuts. Built to enhance customer engagement and streamline appointments.",
-    link: "https://elitecuts-barbershop.netlify.app/"
+    link: "https://barber-noir.vercel.app/"
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const portfolioItems = [
     category: "Website",
     image: "/assets/img/portfolio/app_106.png",
     description: "Dynamic fitness studio website with class schedules, trainer bios, membership plans, and transformation galleries. Designed to motivate visitors and simplify membership registration.",
-    link: "https://forgefitness-studio.netlify.app/"
+    link: "https://forge-fitness-studio.vercel.app/"
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const portfolioItems = [
     category: "Website",
     image: "/assets/img/portfolio/app_107.png",
     description: "Personal finance management tool for tracking income, expenses, and savings goals. Features visual charts, category breakdowns, and monthly budget planning for better financial control.",
-    link: "https://budgetracker-app.netlify.app/"
+    link: "https://expense-tracker-app-sable-iota.vercel.app/"
   },
   {
     id: 8,

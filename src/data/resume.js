@@ -33,7 +33,7 @@ export const resume = {
     },
     {
       title: "Freelance Full-Stack Developer",
-      period: "2019 - Present",
+      period: "2023 - Present",
       company: "Remote & Local Clients",
       responsibilities: [
         "Built full-stack web apps using ASP.NET Core, EF Core, SQL Server, and JavaScript for clients across various sectors.",
