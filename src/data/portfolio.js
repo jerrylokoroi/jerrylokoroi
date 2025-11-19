@@ -67,7 +67,7 @@ export const portfolioItems = [
     id: 9,
     title: "Task Manager App",
     category: "Website",
-    image: "/assets/img/portfolio/app_109.png",
+    image: "/assets/img/portfolio/app_109.PNG",
     description: "Efficient task management application with features for creating, organizing, and tracking daily tasks. Includes priority settings, due dates, and completion tracking for enhanced productivity.",
     link: "https://jerrylokoroi.github.io/To-Do-App/"
   }
