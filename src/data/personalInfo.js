@@ -16,6 +16,15 @@ export const personalInfo = {
     instagram: "https://www.instagram.com/_jerry_.jerry/",
     github: "https://github.com/jerrylokoroi",
     linkedin: "https://www.linkedin.com/in/jerry-lokoroi/"
+  },
+  whatsapp: {
+    // Phone number in international format (digits only, no spaces or special characters)
+    // Can be overridden via environment variable: VITE_WHATSAPP_PHONE
+    // Defaults to "+2547 9665 1983" cleaned of non-digits = "254796651983"
+    phone: import.meta.env.VITE_WHATSAPP_PHONE || "254796651983",
+    // Optional pre-filled message (URL-encoded automatically)
+    // Can be overridden via environment variable: VITE_WHATSAPP_MESSAGE
+    defaultMessage: import.meta.env.VITE_WHATSAPP_MESSAGE || "Hello! I'd like to get in touch with you."
   }
 };
 

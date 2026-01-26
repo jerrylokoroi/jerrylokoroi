@@ -13,6 +13,7 @@ import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import ScrollTop from './components/ScrollTop';
+import WhatsAppButton from './components/WhatsAppButton';
 import Preloader from './components/Preloader';
 
 function App() {
@@ -54,6 +55,7 @@ function App() {
         </main>
         <Footer />
         <ScrollTop />
+        <WhatsAppButton />
       </div>
     </>
   );
